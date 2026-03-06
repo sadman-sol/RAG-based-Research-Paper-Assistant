@@ -60,18 +60,7 @@ source venv/bin/activate
 3. Install dependencies
 
 pip install -r requirements.txt
-
-requirements.txt
-
-fastapi  
-uvicorn  
-langchain  
-langchain-community  
-pypdf  
-faiss-cpu  
-sentence-transformers  
-python-multipart  
-jinja2  
+requirements.txt  
 
 ## Install Local LLM
 Download Ollama from https://ollama.com
