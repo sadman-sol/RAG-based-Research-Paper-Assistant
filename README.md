@@ -43,6 +43,7 @@ research-paper-assistant
 1. Clone the repository
 
 git clone https://github.com/sadman-sol/RAG-based-Research-Paper-Assistant.git
+
 cd research-paper-assistant
 
 2. Create virtual environment
